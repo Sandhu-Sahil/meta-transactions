@@ -11,3 +11,11 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# meta-transactions test run
+
+```shell
+npx hardhat test
+```
+
+```shell
